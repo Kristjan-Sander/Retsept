@@ -1,0 +1,45 @@
+body {
+    background-color: black;
+}
+
+.algus { color: aquamarine;
+    font-family: "Pacifico", cursive;
+text-align: center;
+}
+
+.link {
+    text-align: center;
+}
+
+.keskel {
+    color: blueviolet;
+    text-align: center
+}
+
+.pilt{
+    text-align: center;
+    width: 400px;
+    height: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.tabel {
+    border: 5px solid rgba(4, 111, 182, 0.514);
+ 
+}
+
+.jah {
+    color: aquamarine;
+    text-align: center;
+    
+}
+
+
+
+
+.footer {
+    color: lightcoral;
+    text-align: center
+}
